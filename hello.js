@@ -1,0 +1,1 @@
+console.count("Hello world!");
